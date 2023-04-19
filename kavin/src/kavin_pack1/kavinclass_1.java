@@ -4,9 +4,9 @@ public class kavinclass_1 {
 
 public static void main(String[] args) {
 		
-		for(int i=17;i<=24;i++){
+		for(int i=17;i<=215;i++){
 			System.out.println(i);
 		}
-		System.out.print("hello kavin");
+		System.out.print("hello kavinkumar hi da ");
 	}
 }
