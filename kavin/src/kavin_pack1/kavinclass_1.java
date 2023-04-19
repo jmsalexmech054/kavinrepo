@@ -4,9 +4,9 @@ public class kavinclass_1 {
 
 public static void main(String[] args) {
 
-		for(int i=1;i<=5;i++){
-			System.out.println("kavin"+i);
+		for(int i=17;i<=215;i++){
+			System.out.println(i);
 		}
-		System.out.print("hi da pakki ipo ok va nalla puruchitha ah ");
+		System.out.print("hello chennai hi da ");
 	}
 }
